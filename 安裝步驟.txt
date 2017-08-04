@@ -1,0 +1,8 @@
+1.Install Python 2.7 : python-2.7.12.msi
+2.Install wxPython2.8 : wxPython2.8-win32-unicode-2.8.12.1-py27.exe
+3.去C:\Python27\Scripts資料夾按住shift鍵與滑鼠右鍵選在此處開起命令視窗，打pip install robotframework、pip install robotframework robotframework-ride
+4.開啟方式 : 開啟命令提示字元打ride.py
+5.參考網址 : https://www.ibm.com/developerworks/cn/opensource/os-cn-robot-framework/
+6.註解快捷鍵 : 
+註解 : Ctrl + 3
+解註解 : Ctrl + 4
