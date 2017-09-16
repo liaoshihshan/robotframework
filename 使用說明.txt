@@ -6,12 +6,12 @@ Given: 代表在什麼前提、環境下
 When: 當發生了什麼動作
 Then: 預期有什麼樣的結果
 
-
 使用RobotFramework做自動化測試 : 
 找到C:/Python27/Scripts的資料夾[在路徑上打cmd或按住shift鍵與滑鼠右鍵選在此處開啟命令提示視窗(W)]，輸入ride.py就可以開啟。
 看報表 : 開啟資料夾內的report.html。
 新增一個測試案例 : New TestCase
 新增一個方法 : New User Key
 檔案儲存路徑 : mobiletest資料夾中testCase資料夾的AsusZenfoneTest檔案。
-看Arguments(方法) : 選藍色的方法按住Ctrl的鍵加滑鼠左鍵。
+看Arguments(方法) : 選藍色的方法空白處按住Ctrl的鍵加滑鼠左鍵。
 看提示 : Ctrl + Alt + 空白。
+用Python寫新的Keyword : Add Library -> 在Name的Browse選擇.py的路徑 -> 在Test Case中使用在.py檔定義(def)的方法名稱當成Keyword。 
