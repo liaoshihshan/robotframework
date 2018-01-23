@@ -7,7 +7,7 @@ When: 當發生了什麼動作
 Then: 預期有什麼樣的結果
 
 使用RobotFramework做自動化測試 : 
-找到C:/Python27/Scripts的資料夾[在路徑上打cmd或按住shift鍵與滑鼠右鍵選在此處開啟命令提示視窗(W)]，輸入ride.py就可以開啟。
+找到C:/Python27/Scripts的資料夾[在路徑上打cmd或按住shift鍵與滑鼠右鍵選在此處開啟命令提示視窗(W)]，輸入python ride.py就可以開啟。
 看報表 : 開啟資料夾內的report.html。
 新增一個測試案例 : New TestCase
 新增一個方法 : New User Key
